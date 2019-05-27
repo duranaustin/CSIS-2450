@@ -64,8 +64,8 @@ public class A01Engine {
      * setLives sets the number of lives
      */
     private void setLives(){
-        this.lives = 6;
-        this.spacedLives = 6;
+        this.lives = 5;
+        this.spacedLives = 5;
     }
 
     /**
